@@ -31,7 +31,7 @@ Click WA logo to Join Support Group 👇
   
 ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/MrAxenzo/MYKA_Bot) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -40,8 +40,8 @@ Click WA logo to Join Support Group 👇
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://https://github.com/MrAxenzo/MYKA_Bot
+$ cd MYKA_Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -49,8 +49,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmallllllll/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://https://github.com/MrAxenzo/MYKA_Bot
+$ cd MYKA_Bot
 $ npm i
 $ node julie.js
 ```
