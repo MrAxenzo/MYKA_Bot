@@ -1,20 +1,19 @@
 ## `Note`
 
-## Nandhutty `Version 2` is no more maintained by the owner
-## You can use the latest version [`V3`] by clicking the below button
-## [`Click Here`](https://github.com/Ajmal-Achu/Nandhutty-V3)
+## MYKA_Bot is no more maintained by the owner
+## [`Click Here`](https://github.com/MrAxenzo/MYKA_Bot)
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MYKA_Bot" src="https://img.shields.io/badge/MYKA_Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/MrAxenzo/MYKA_Bot"><img title="Author" src="https://img.shields.io/badge/AuthorMrAxenzo/MYKA_Bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/MrAxenzo/MYKA_Bot">Mr-Axenzo</a> to make it public
     <br>
        | © |
         Reserved |
@@ -28,9 +27,9 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 
 IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
-THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Ajmal-Achu` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
+THEN COPY THE LINK BELLOW AND CHANGE THE NAME `MrAxenzo` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2
+Copy this link https://heroku.com/deploy?template=https://https://github.com/MrAxenzo/MYKA_Bot
 </p>
 
 
@@ -47,8 +46,8 @@ Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/MrAxenzo/MYKA_Bot
+$ cd MYKA_Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -84,7 +83,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DsWqJWHRxgU16kvxFvLYL6)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmal-Achu&repo=Nandhutty_v2&theme=nightowl)](https://github.com/Ajmal-Achu/Nandhutty_v2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAxenzo&repo=MYKA_Bot&theme=nightowl)](https://github.com/MrAxenzo/MYKA_Bot)
   </div>
     
 ### ⚠️ Warning! 
@@ -99,18 +98,6 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 * [`Baileys`]
 * [`Ajmal-Achu`](github.com/Ajmal-Achu)
 * [`Farhan-dqz`](github.com/Farhan-dqz)
-
-## Developers
-  <div align="center">
-    
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Ajmal-Achu](https://github.com/Ajmal-Achu.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Ajmal-Achu](https://github.com/Ajmal-Achu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
-  </div>
-    
-
-
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
